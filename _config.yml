@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Riha Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **chic** person."
+  bio              : "I am a **chic** person."
   location         : "Soeul, Korea"
   email            : chic-codist@gmail.com
   links:
