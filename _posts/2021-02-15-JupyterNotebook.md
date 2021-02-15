@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Jupyter Notebook 초간단 사용법"
+---
+
+
 ### Jupyter Notebook
 - mode
   - 명령모드 (ESC)
