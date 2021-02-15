@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Jupyter Notebook 초간단 사용법"
 ---
 
